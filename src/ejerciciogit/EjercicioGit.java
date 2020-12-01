@@ -20,6 +20,8 @@ public class EjercicioGit {
         System.out.println("Tercera linea-B");
         System.out.println("Cuarta linea");
         
+        System.out.println("Esto es de la Rama24");
+        System.out.println("Editando el archivo");
     }
     
 }
