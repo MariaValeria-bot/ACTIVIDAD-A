@@ -22,6 +22,8 @@ public class EjercicioGit {
         
         System.out.println("Esto es de la Rama24");
         System.out.println("Editando el archivo");
+        
+        System.out.println("Rama 24 modf");
     }
     
 }
